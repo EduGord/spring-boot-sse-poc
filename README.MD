@@ -74,5 +74,3 @@ The Node.js client connects to the SSE endpoint of the Spring Boot application. 
 
 - This POC does not include production-grade security measures and is meant for demonstration purposes only.
 - Customize and extend the functionality as per your application requirements.
-
-# to rename uncommited 
