@@ -1,0 +1,15 @@
+{
+  "name": "node-sse-client",
+  "version": "1.0.0",
+  "description": "Node.js client for server-sent events with JWT authentication",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Eduardo Gordilho",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "eventsource": "^1.1.0"
+  }
+}
