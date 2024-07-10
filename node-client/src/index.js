@@ -42,6 +42,7 @@ async function testUnauthorizedWhenTryingToSubscribeToPaymentOfAnotherUser() {
     console.log('Unauthorized test completed');
 
 }
+
 async function main() {
     await test();
     await testWithDelayedListener();
